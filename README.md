@@ -6,6 +6,7 @@ the course will progress.
 
 ## Monday links:
 
+- [Link of the Day](https://after-on.com/) 
 - [Git](https://git-scm.com)
 - [Git Magic](https://crypto.stanford.edu/~blynn/gitmagic/index.html)
 - [GitHub](https://github.com)
