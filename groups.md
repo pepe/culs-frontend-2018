@@ -31,3 +31,9 @@ Group 5
 Purvi Gandhi
 Priyanka Soni
 Rajesh Kumar
+
+---
+
+Group 6
+Meet Thakkar
+Harpinder Singh
