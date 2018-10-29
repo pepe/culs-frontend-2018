@@ -15,6 +15,12 @@ title: The Intro
 * Father
 * Programmer
 
+---
+
+## State of the change 2018
+
+* Linux 
+* NS
 
 ---
 
