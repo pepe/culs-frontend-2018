@@ -15,7 +15,7 @@ the course will progress.
 - [Atom Packages](https://atom.io/packages)
 - [Get Visual Studio Code](https://code.visualstudio.com)
 - [Get Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)
-- [Web site](http://jsbin.com)
+- [JSBin](http://jsbin.com)
 - [Microservices](https://en.wikipedia.org/wiki/Microservices)
 - [Containers](https://en.wikipedia.org/wiki/Operating-system-level_virtualization)
 - [Serverless](https://en.wikipedia.org/wiki/Serverless_computing)
