@@ -37,3 +37,9 @@ Rajesh Kumar
 Group 6
 Meet Thakkar
 Harpinder Singh
+
+---
+
+Group 7
+Visart Shahu
+Jovana Marceta
