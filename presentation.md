@@ -34,9 +34,11 @@ title: The Intro
 
 ## Organization
 
-* Simple made easy
-* Daily program
-* AM/PM
+* One interesting link
+* Clash of Titans Groups
+* Practice
+* All in Groups (6 of them)
+
 
 ---
 
@@ -55,6 +57,15 @@ title: The Intro
 
 ---
 
+## Link -> CoT
+
+* I will show you one link
+* CoT about the link
+* At least 15 minutes
+* No more than 25 minutes
+
+---
+
 ## Week
 
 * Monday - Tools
@@ -67,9 +78,15 @@ title: The Intro
 
 ## Final Project
 
-* Pairs
+* Group
 * Portfolio page
 * Static only
+
+---
+
+## Any questions
+
+Speak now, or be silent for the week.
 
 ---
 
