@@ -178,3 +178,204 @@ title: Tools
 * Serverless
 
 ===
+
+---
+author: Pepe
+date: 2018-10-30
+title: Content
+---
+
+# Contemporary Frontend Development
+
+---
+
+# Followup
+
+---
+
+## Final Project
+
+* Welcome page
+* Personal page for participants
+* Contact page
+
+---
+
+## Distribution of points
+
+* Attendance 30%
+* Project 50%
+* Test 20%
+
+---
+
+## More Git(Hub)
+
+* Commit vs Push
+* Branches
+* Pull requests vs Participants
+
+
+---
+
+# HTTP statuses
+
+---
+
+# Finally Content
+
+---
+
+## Document vs Data
+
+* Web
+* Apps
+* Examples
+
+---
+
+## HTML
+
+* History
+* Incarnations
+* HTML5
+* Task template
+
+---
+
+## XML
+
+* History
+* Not really human readable
+* Java world
+* Incarnations
+
+---
+
+## DOM
+
+* HTML & XML
+* Tree structure
+* Hierarchical
+* Object Oriented
+
+---
+
+## JSON
+
+* History
+* Booming - Lingua Franca
+* API
+* Task - JSON example
+
+---
+
+## Media
+
+* Images
+* Sound
+* Video
+
+---
+
+## Others
+
+* Markdown
+* SVG
+* Binary 
+* Task some more
+
+---
+
+## Story - communication
+
+* It's all about it
+* Best way
+* Cambrian explosion
+
+===
+
+---
+author: Pepe
+date: 2018-10-30
+title: Presentation
+---
+
+# Contemporary Frontend Development
+
+---
+
+# Presentation
+
+---
+
+## What we see
+
+* Sizes
+* Positions
+* Visuals
+
+---
+
+## Tag attributes
+
+* Beginning
+* Each tag had their set
+* Browser dependent
+
+---
+
+## CSS
+
+* Separation of presentation and content
+* HTML, XML, SVG
+* History
+
+---
+
+## CSS structure
+
+* Selectors
+* Declarations
+* Properties
+
+---
+
+## Preprocessor languages
+
+* SASS
+* Less
+* Stylus
+
+---
+
+## Frameworks
+
+* Bootstrap
+* Semantic
+* ZURB
+
+---
+
+## Responsive design
+
+* Many sizes
+* Mobile first
+
+---
+
+## Material design
+
+* Google
+* Not finished
+* Movie time
+
+---
+
+## Story - communication
+
+* UX
+* Response times
+* Optimistic updates
+
+===
