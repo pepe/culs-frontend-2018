@@ -379,3 +379,88 @@ title: Presentation
 * Optimistic updates
 
 ===
+
+---
+author: Pepe
+date: 2017-10-31
+title: Scripting
+---
+
+# Contemporary Frontend Development
+
+---
+
+## Material design
+
+* Google
+* Not finished
+* Movie time
+
+---
+
+# Scripting
+
+---
+
+## JavaScript
+
+* History
+* Proper name
+* The Browser Language
+
+---
+
+## Frameworks
+
+* Whole universe
+* Almost everything
+* Usecase
+
+---
+
+## Popular FW
+
+* jQuery
+* React.js
+* Angular.js
+* Ember.js
+---
+
+## Transpilers
+
+* Always JS on the end
+* Building
+* Webpack, Gulp
+
+---
+
+## Transpiled languages
+
+* CofeeScript ✝
+* TypeScript
+* Elm
+* ClojureScript ♥
+
+
+---
+
+## Not only frontend
+
+* Node.js
+* npm
+* Next semester
+
+---
+
+## Story - all together
+
+* Static site generators
+* Jekyll
+* GitHub pages
+
+---
+
+## One more thing
+
+* Frontend checklist
+
