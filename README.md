@@ -4,6 +4,8 @@
 The presentation and materials for the study block. Things will be appearing here as
 the course will progress. 
 
+[Demo project](https://github.com/pepe/final-project-frontend-2018)
+
 ## Monday links:
 
 - [Link of the Day](https://after-on.com/) 
