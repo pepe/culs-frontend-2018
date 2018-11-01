@@ -57,3 +57,8 @@ the course will progress.
 - [NPM](https://www.npmjs.com)
 - [Jekyll](https://jekyllrb.com)
 - [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+## Thursday links
+
+- [Jekyll](https://jekyllrb.com)
+- [PWA](https://developers.google.com/web/progressive-web-apps/)

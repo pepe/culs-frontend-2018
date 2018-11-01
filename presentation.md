@@ -464,3 +464,24 @@ title: Scripting
 
 * Frontend checklist
 
+===
+
+---
+author: Pepe
+date: 2018-11-01
+title: Hands On
+---
+
+# Contemporary Frontend Development
+
+---
+
+# Jekyll
+
+---
+
+# PWA
+
+
+
+
