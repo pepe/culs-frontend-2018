@@ -60,5 +60,8 @@ the course will progress.
 
 ## Thursday links
 
+- [Link of the Day](https://ar.al/notes/encouraging-individual-sovereignty-and-a-healthy-commons/)
+- [Link of the Day](https://blog.rescuetime.com/nir-eyal-digital-distraction/)
+- [Link of the Day](https://intelligence.org/2017/10/13/fire-alarm/)
 - [Jekyll](https://jekyllrb.com)
 - [PWA](https://developers.google.com/web/progressive-web-apps/)
