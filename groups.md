@@ -31,6 +31,7 @@ finish Presentation
 3. samson NTAMBARA
 
 finish Presentation
+
 ---
 
 ## Group 5
@@ -57,7 +58,8 @@ finish Presentation
 1. Vasiliki Theodorou
 2. Apu Rahman
 3. Aleazar Gobena
-(Presentation Completed)
+
+finish Presentation
 
 ---
 
