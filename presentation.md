@@ -487,6 +487,41 @@ title: Hands On
 
 # PWA
 
+===
 
+---
+author: Pepe
+date: 2017-11-04
+title: TGIF!
+---
 
+# Contemporary Frontend Development
 
+---
+
+## You are still here?
+
+---
+
+## https://www.surveymonkey.com/r/H2KCTVJ
+
+---
+
+## Contemporary Frontend World
+
+---
+
+## More pepe to your
+
+* @damnpepe Twitter/Mixcloud/Refind
+* +4207742778707 WhatsApp, iMessages
+
+---
+
+## Shout-out
+
+---
+
+## pepe's out
+
+===
