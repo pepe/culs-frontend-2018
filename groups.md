@@ -59,7 +59,7 @@ finish Presentation
 2. Apu Rahman
 3. Aleazar Gobena
 
-finish Presentation
+https://vernath.github.io/study-block-project-2018/
 
 ---
 
